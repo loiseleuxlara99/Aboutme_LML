@@ -1,0 +1,45 @@
+---
+title: "About"
+---
+
+# Lara-Marie Loiseleux
+
+
+![](images/profile.jpeg){style="float:left; width:190px; margin: 6px 26px 12px 0; border-radius:14px;"}
+
+**Master’s Student | Empirical Educational Research & Educational Psychology**  
+University of Tübingen (Expected graduation: October 2026)
+
+My research interests lie at the intersection of educational psychology, psychometrics, and intervention research. I am particularly interested in socio-emotional competencies and self-regulation: how these constructs can be conceptualized, measured validly, and translated into targeted educational interventions.
+
+A central question in my work is how we can move beyond purely self-report-based assessments toward more objective and context-sensitive methods of measuring socio-emotional and self-regulatory skills. I am interested in how they develop in educational contexts, and how interventions can foster them in meaningful and causally interpretable ways.
+
+Methodologically, I work with quantitative and qualitative approaches, including longitudinal measurement models, psychometric validation, secondary analyses of randomized interventions (CACE), and theory-driven coding of classroom interactions.
+
+
+
+<div style="clear: both;"></div>
+
+
+---
+
+## Research Interests
+
+Socio-emotional competencies and self-regulation are central to educational success, well-being, and adaptive development. However, their measurement often faces a validity problem: many instruments rely heavily on self-report and may blur the distinction between skills, traits, and context-dependent behavior.
+
+I am interested in closing this gap by developing and evaluating more valid, context-sensitive, and objective approaches to measurement. This includes investigating whether we are measuring what learners can do, what they are like, or how they respond to specific educational environments.
+
+At the same time, I am interested in how socio-emotional and self-regulatory skills can be deliberately supported through educational interventions. My long-term interest is to connect valid measurement with intervention design: understanding not only whether an intervention works, but also what exactly changes, for whom, and under which conditions.
+
+## Methodological Orientation
+
+Across my projects, I aim to align substantive research questions with appropriate measurement strategies and analytic approaches. My methodological interests include psychometric validation, longitudinal modeling, causal inference in applied intervention research, and the use of qualitative and automated coding approaches to capture complex educational processes.
+
+I am especially interested in measurement approaches that go beyond retrospective self-report, such as behavioral indicators, contextualized assessments, classroom discourse analysis, and digital or simulation-based assessment formats.
+
+## Academic Direction
+
+I aim to pursue a PhD in which I can contribute to making socio-emotional and self-regulatory development more validly measurable and more effectively actionable in educational contexts.
+
+My goal is to move beyond broad claims about “non-cognitive skills” toward a more precise understanding of how these competencies can be assessed, fostered, and evaluated: what works, for whom, why, and under which contextual conditions.
+
